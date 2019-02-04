@@ -1,0 +1,53 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "category": "Pasta",
+      "ethnicity": "Italian",
+      "barcode": "0041250660897"
+    },
+    {
+      "id": 2,
+      "name": "Massaman Curry",
+      "category": "Curry",
+      "ethnicity": "Thai",
+      "barcode": "0016229008635"
+    },
+    {
+      "id": 3,
+      "name": "Green Curry",
+      "category": "Curry",
+      "ethnicity": "Thai",
+      "barcode": "0042272011179"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "category": "Pasta",
+      "ethnicity": "Italian",
+      "barcode": "8710400274117"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "category": "Vegetables",
+      "ethnicity": "Italian",
+      "barcode": "5000169116562"
+    },
+    {
+      "id": 6,
+      "name": "Extra Cheesy Pizza - Lunchables",
+      "category": "Magic",
+      "ethnicity": "American",
+      "barcode": "3181232138383"
+    },
+    {
+      "id": 7,
+      "name": "Chicken Wings",
+      "category": "Chicken",
+      "ethnicity": "Canadian",
+      "barcode": "3230890010293"
+    }
+  ]
+}
